@@ -1,0 +1,435 @@
+
+Rules addendum:
+
+Se você está usando/portando um hat, ele é seu.
+
+
+-----------------------------------------------
+
+Player: Renan (MP no fórum)
+Nick: _|‾‾‾‾‾|_
+
+
+Pizza Making Extraordinaire
+  Gastar 10, Queimar 10: O jogador alvo recebe um Pizza Hat.
+
+  Pizza Hat - Hat
+  Esse hat pode ser consumido pelo seu portador para recuperar 10 de vida.
+
+
+Power, Wisdom, Courage
+  Se ao longo do jogo você conseguir fazer os seguintes achievements:
+    - causar 50 de dano em um único turno com ataques
+    - defender 50 de dano em um único turno usando armadura
+    - ganhar 5 hats novos em um único turno
+  Você recebe o hat Triângulos Dourados.
+
+  Triângulos Dourados - Hat Único e Fabuloso
+  Triângulos Dourados é indestrutível.
+  Dá para seu portador +5 de dano para todas as ações de dano, +5 de armadura e +10 de energia máxima.
+
+
+Explodomancer
+  Toda vez que você causar 20 ou mais de dano em um jogador com uma única ação, você ganha um hat Biribinha.
+
+  Se um jogador possui pelo menos uma Biribinha, ele tem:
+  "5X de energia: causa X de dano penetrante em cada um de até 3 jogadores alvo.
+  X não pode ser maior que o número de Biribinhas que você está vestindo."
+
+  Biribinha - Hat
+  (não faz nada por si só)
+
+
+Share the Pain
+  Ao invés da maior aposta, é o jogador com a menor aposta neste poder que ganha esse poder (as moedas ainda são descontadas da maior aposta como normal).
+  Não apostar nesse hat é considerada uma aposta de valor 0 para a regra acima (e apenas para a regra acima).
+
+  Você começa o jogo com o Hat of Utterly Pointless and Sharp Spikes.
+
+  Hat of Utterly Pointless and Sharp Spikes - Hat Único
+  Hat of Utterly Pointless and Sharp Spikes é indestrutível.
+  A cada turno, este hat recebe um marcador de sharpness e depois causa X de true damage ao portador,
+  onde X é o número de marcadores de sharpness neste hat.
+  Queimar 5: coloca o HoUPaSS no jogador alvo.
+
+
+Abuse Status
+  Se você porta mais hats que um jogador, seus ataques básicos causam dano extra àquele jogador igual à diferença.
+  Se você porta menos hats que um jogador, previna dano de ataques básicos daquele jogador igual à diferença.
+
+
+-----------------------------------------------
+
+Player: yancouto (MP no fórum)
+Nick: Cocaine Slag
+
+
+He Needs Friends
+  1 uso por turno, Gastar 50: Coloca um Unmotivated Protection Hat no jogador alvo:
+
+  Unmotivated Protection Hat - Hat
+  +1 de armadura para cada hat que o portador desse hat porta
+
+
+Tick-Tick-Tick BOOM
+  Gastar 30: Coloca um Time Bomb Hat no jogador alvo com pelo menos um hat e nenhum Time Bomb Hat:
+
+  Time Bomb Hat - Hat
+  Sempre que um hat é adicionado a seu portador, Time Bomb Hat tem 30% de chance de passar a ser o hat do topo de seu jogador.
+  No final de todo turno, Time Bomb Hat troca de posição com o Hat de baixo e ganha um marcador de tick.
+  Se Time Bomb Hat se tornar o hat mais baixo do seu portador, ele explode e causa 10 vezes o número de marcadores de tick nele de dano perfurante em seu portador.
+
+
+Confusão
+  Gastar 40: Coloca o Teleporting Body-Switching Random Black and Gold Hat em si mesmo:
+
+  Teleporting Body-Switching Random Black and Gold Hat - Hat Único
+  Se o dono de Confusão receber este hat, ele sofre 5 de dano absoluto.
+  Todos os ataques que tiverem como alvo o portador desse hat mudam seu alvo para o dono de Confusão, todos os ataques que tiverem como alvo o dono de Confusão mudam seu alvo para o portador desse hat. Antes dos ataques, esse hat é colocado em um jogador aleatório.
+
+  Se Confusão deixar de existir, este hat deixa de existir.
+
+
+On Fire
+  Gaste X: Coloca um Burning Hat no jogador alvo:
+
+  Burning Hat - Hat
+  A cada rodada, causa X de dano em seu portador e ganha 1 contador de rodada. Se Burning Hat tiver 3 contadores de rodada, ele se desintegra. Se seu utilizador for atacado, copie este hat e coloque a cópia no atacante, sem nenhum contador de rodada.
+  Quando Burning Hat é colocado em um jogador, remova os contadores de rodada de quaisquer outros Burning Hats naquele jogador.
+
+
+-----------------------------------------------
+
+Player: DobbyTheElf (MP no fórum)
+Nick: Awe-Inspiring Lord of Unfathomable Winsomeness
+
+
+Rivalify
+  Se nenhum jogador possuir Rivalvify, este poder deixa de existir
+  Gaste 15: coloca um Magnificent Hat of Wondrous Fanciness (Rival Hat A) no jogador alvo:
+
+  Magnificent Hat of Wondrous Fanciness (Rival Hat A) - Hat Único e Fabuloso
+  Chapéu excentricamente decorado, criado por um chapeleiro lendário durante o maior duelo de criação de chapéus já ocorrido. É o par do Wonderful Hat of Fancy Magnificence (Rival Hat B). Enquanto os dois chapéus estiverem vestidos em duas pessoas diferentes, estas compartilharão as habilidades providenciadas por todos os chapéus abaixo deste e terão um adicional de 25% de dano sempre que se atacarem. Se uma mesma pessoa estiver usando os dois chapéus, estes se desintegram instantaneamente.
+
+
+Rivalvify
+  Se nenhum jogador possuir Rivalify, este poder deixa de existir
+  Gaste 15: coloca o seguinte chapéu no jogador alvo:
+
+  Wonderful Hat of Fancy Magnificence (Rival Hat B) - Hat Único e Fabuloso
+  Chapéu elegantemente ornamentado, criado por um chapeleiro lendário durante o maior duelo de criação de chapéus já ocorrido. É o par do Magnificent Hat of Wondrous Fanciness (Rival Hat A). Enquanto os dois chapéus estiverem vestidos em duas pessoas diferentes, estas compartilharão as habilidades providenciadas por todos os chapéus abaixo deste e terão um adicional de 25% de dano sempre que se atacarem. Se uma mesma pessoa estiver usando os dois chapéus, estes se desintegram instantaneamente.
+
+
+Fast gunner
+  Gaste 60: coloca um Hat the Kid no jogador alvo:
+
+  Hat the Kid - Hat Lendário
+  O mesmo chapéu usado pelo lendário pistoleiro Billy the Kid. Os ataques de quem usa esse chapéu ocorrem antes de qualquer outro dano de ataque ser calculado. Caso o usuário desse chapéu esteja atacando um jogador que está o atacando de volta, previna todo o dano que o usuário deste chapéu receberia de ataques deste outro jogador, e diminua em 50% todo dano de ataques que o dono deste chapeu causaria neste outro jogador.
+
+
+Let’s start the mess
+  Gaste 10: coloca um Totally Awesome Chaos Hat of Warping Madness no jogador alvo:
+
+  Totally Awesome Chaos Hat of Warping Madness - Hat Fabuloso
+  No final de cada turno, Totally Awesome Chaos Hat of Warping Madness troca de lugar aleatóriamente com qualquer outro chapéu do jogo.
+
+
+Grand Chef Hatter
+  Gastar 30, Queimar 10: coloca uum Hatatouille no jogador alvo:
+
+  Hatatouille - Hat
+  No final de cada rodada, se o portador desse hat tiver levado dano, ele ganha 5 de vida.
+  Este chapéu pode ser comido pelo seu portador para nesta rodada aumentar o dano de seus ataques em 25% e torná-los perfurantes.
+
+
+-----------------------------------------------
+
+Player: Kazuo (MP no fórum)
+Nick: TheFalseProphet
+
+
+Hatris Attack
+  Todo hat criado durante o jogo é associado aleatoriamente a uma cor dentre {VERMELHO, VERDE, AZUL}.
+  Hats vermelhos concedem mais 5 pontos de dano para os ataques do portador.
+  Hats azuis concedem mais 5 pontos de armadura para seu portador.
+  Hats verdes concedem 5 pontos de energia extra para seu portador.
+  Quando três ou mais hats da mesma cor estão empilhados EM SEQUÊNCIA na cabeça de alguém, eles implodem causando ao já-não-mais-portador 5 pontos de dano absoluto para cada chapéu implodido.
+
+  Gaste 10, 3 usos por turno: coloque um Chapéu Cubóide no jogador alvo.
+
+  Chapéu Cuboide - Hat
+  (não faz nada por si só)
+
+  "Hummm... eu já vi isso em algum lugar..."
+
+
+Malabarismo
+  Gaste 10: antes do combate, desempilhe o hat do topo do jogador alvo que porta pelo menos um hat.
+  O hat fica fora do jogo até o final do turno, e depois ele é colocado de volta no topo do mesmo jogador.
+  Em caso de múltiplos usos, primeiro voltam os hats que foram desempilhados primeiro.
+
+  "Deixa eu segurar isso para você um pouquinho."
+
+
+Pow Hat
+  Gaste 20, 1 uso por turno: coloque um Pow Hat no jogador alvo.
+
+  Pow Hat - Hat
+  Quando Pow Hat é colocado no topo de um jogador, ele causa dano ao seu portador igual a 2 vezes o número de hats abaixo dele.
+
+  "Esses chapéus estão começando a pesar um pouco."
+
+
+Criar Coringa
+  Gaste 10: Coloque um Coringa no jogador alvo.
+
+  Coringa - Hat Fabuloso
+  No começo do turno, Coringa se torna igual ao hat no topo de seu portador (cópias não mudam de qualidade).
+
+  "Why so serious?"
+
+
+Para-raios
+  Queimar 20, 3 cargas: escolha um número. Como última ação do turno, coloque uma Antena em cada jogador que tiver exatamente aquele número de hats.
+
+  Se você tiver pelo menos uma Antena, você tem a seguinte habilidade:
+  No final de cada turno, se você for o jogador com mais hats, receba 40 pontos de dano, senão, receba 20 pontos de dano.
+
+  Antena - Hat
+  (não faz nada por si só)
+
+  "A união faz a força. Só que não."
+
+
+-----------------------------------------------
+
+Player: Henrique (MP no fórum)
+Nick: Sol Invictus
+
+
+Esquecer de Chutar a Pedra:
+  Gastar 10: Coloca uma Loadstone no jogador alvo.
+
+  Loadstone - Hat
+  Nenhum efeito pode destruir ou remover esse hat da cabeça de seu portador.
+  No início do turno, causa ao portador 1 de dano absoluto para cada Loadstone que ele tem sobre sua cabeça.
+
+
+Ultimate Knowledge
+  O dono desse poder começa o jogo com o Hat of the Ultimate Knowledge.
+
+  Todos os jogadores tem "Gastar 10 + X: coloca X marcadores de conhecimento em si".
+  O jogador mais impressionante é aquele com o maior valor seguindo a seguinte fórmula:
+    raizQuadradaDe(VidaAtual) * NúmeroDeMarcadoresConhecimento * NúmeroDeHatsNaCabeça
+
+  Hat of the Ultimate Knowledge - Hat Único
+  No início do turno, concede ao seu portador 10 de energia máxima permanente.
+  No final do turno, ele desaparece de onde estava e aparece no topo da pilha de hats do jogador mais impressionante.
+
+
+Twitch
+  Ao invés da maior aposta, é o jogador com a menor aposta neste poder que ganha esse poder (as moedas ainda são descontadas da maior aposta como normal).
+  Não apostar nesse hat é considerada uma aposta de valor 0 para a regra acima (e apenas para a regra acima).
+
+  O dono desse poder começa o jogo com o Hivemind.
+
+  Hivemind - Hat Único
+  Hivemind é indestrutível.
+  Todos os jogadores têm:
+  "Queimar X: Envia um ação por prioridade X para que o portador de Hivemind. X deve ser maior ou igual a 10. A ação não pode queimar vida como custo e não pode gastar mais que 2*X de energia"
+  O portador de Hivemind executa as ações em sequência, começando com aquelas com prioridade maior. O portador deve, se capaz, pagar todos os custos e então realizar o efeito.
+
+
+Criar Prisma
+  Queimar 20, Gastar 30: Coloca no jogador alvo um "Hat de Prisma".
+
+  Hat de Prisma - Hat Lendário
+  Sempre que esse hat ou o seu portador for o único alvo de um efeito, exceto ataques normais, crie uma cópia desse efeito para cada outro alvo válido.
+
+
+Cozinhar Batata
+  No começo do jogo, o mestre decide uma ordem circular para os jogadores.
+  Gastar 30: Coloca no jogador alvo uma Batata Quente.
+
+  Batata Quente - Hat
+  Esse hat entra em jogo com X marcadores ocultos de tempo. X é um número aleatório entre 2 e 5.
+  No final do turno, remova um marcador de tempo. Se não for possível, ele explode causando 40 de dano penetrante ao portador e 15 de dano penetrante a todos os jogadores adjacentes. Põe fogo nos hats logo acima e abaixo desse.
+  O portador tem: "Gastar 10: Coloca esse hat em outro jogador."
+
+
+-----------------------------------------------
+
+Player: Coelho (MP no fórum)
+Nick: Lo hombre con el sombrero
+
+
+Tinfoil
+  Gastar 10: Coloca um Tinfoil Hat no jogador jogador alvo.
+
+  Tinfoil Hat - Hat
+  O portador recebe 5 a mais de dano de todas as fontes.
+  Se o jogador receber dano, este hat é destruido no final do turno.
+
+
+Chapéu de arqueiro
+  Queimar 10% da sua vida atual: Coloca um Chapéu de Arqueiro no jogador alvo.
+
+  Chapéu de Arqueiro - Hat
+  Os ataques feitos pelo jogador com este chapéu sempre acertam seu alvo original.
+
+
+Festa maluca do chapéu
+  Gaste seu máximo de energia, Queime 10% da sua vida atual:
+  Todos os chapéus são retirados dos jogadores em que estão e são redistribuídos aleatoriamente.
+  Cada jogador recebe uma quantia de chapéus igual a que tinha anteriormente.
+
+
+El sombrero fabuloso
+  Gaste 10: Coloca um Sombrero no jogador alvo.
+
+  Sombrero - Hat Fabuloso
+  O Sombrero melhora as habilidades de pistoleiro do portador.
+  20% de todo dano normal causado pelo jogador é transformado em dano perfurante.
+
+
+"Chapéu" de maçã
+  Gaste 20: Coloca uma Maçã no jogador alvo.
+
+  Maçã - Hat
+  No turno em que este jogador receber dano, uma das fontes de dano escolhida aleatóriamente é redirecionada para a maçã, anulando o dano contra o jogador e a destruindo.
+  Cada jogador pode ter apenas uma maçã em sua cabeça.
+
+
+-----------------------------------------------
+
+Player: RenatoGeh: (Skype)
+Nick: Pocotó, o Pônei Maldito.
+
+
+Cartola
+  Gaste X: Coloca o hat único Cartola do Mágico no jogador alvo.
+
+  Cartola do Mágico - Hat Único
+  Cada turno tem probabilidade (100-X)% de previnir X/2 de dano.
+
+  "O número de coelhos felpudos vítimas dessa cartola até hoje aterroriza a comunidade de Rabitton."
+
+
+Staying Alive
+  Gaste 20: Coloque o Hat Stayin' Alive no jogador alvo.
+
+  Stayin' Alive - Hat Único e Fabuloso
+  Quando esse hat passar a existir, lance uma moeda.
+  Se der coroa, cancele todos os ataques deste turno.
+  Se der cara, todos os ataques têm seus alvos redirecionados aleatoriamente.
+
+  "Um brilhante globo de Disco ascende de seu chapéu, causando euforia, animação incontrolável e movimentos de dança bregas nos seus oponentes. Em um estado de hipnose dançante, todos os seus oponentes esquecem por um momento de lutar. Agora é um momento de se amar."
+
+
+No More Tacos
+  Gaste 35: Coloque um Taco no jogador alvo
+
+  Taco - Hat
+  O jogador alvo come esse Taco: Lance uma moeda. Se der coroa, o taco lhe deu indigestão, diminua pela metade os seus ataques e defesa nesse turno e leve 10 de dano absoluto. Se der cara, seu taco estava delicioso (e saudável), seus ataques este turno são perfurantes, e sua armadura previne dano.
+
+  "Sorry, had tacos for lunch."
+
+
+Made in China
+  Gaste 30+X: Tem chance de (50+X)% de copiar o chapéu alvo e colocar no jogador alvo. A cópia não tem nenhuma qualidade.
+
+  "Chapéu 'balatinho'! 100% 'oliginal'."
+
+
+-----------------------------------------------
+
+Player: Rafael Freitas da Silva
+Nick: Chapéus, Sapatos Ou Roupas Usadas Quem Tem (aka O Velho do Saco)
+
+
+Criar O lendário chapéu da resistência do homem simples frente à opressão do sistema e do pagamento de aluguéis.
+  Gaste 45: coloca o chapéu O lendário chapéu da resistência do homem simples frente à opressão do sistema e do pagamento de aluguéis no jogador alvo.
+
+  O lendário chapéu da resistência do homem simples frente à opressão do sistema e do pagamento de aluguéis - Hat Lendário
+  Concede +15 de defesa passiva ao usuário. O usuário pode jogar o chapéu em desgosto no chão e pisar em cima dele. Depois disso o chapéu concede 10 de bonus em cada ataque do portador ao invés de +15 de defesa.
+
+
+Criar Chapéu Seletor
+  Gaste 30: coloque o Chapéu Seletor no jogador alvo.
+
+  Chapéu Seletor - Hat Único
+  Se o portador desse hat não tiver uma casa, escolha uma casa aleatoriamente para ele.
+  Se o portador desse hat tiver uma casa, Chapéu Seletor concede um bonus para ele:
+    - Grifinória: +10 dano penetrante para uma ação que causa dano no turno
+    - Sonserina: 5 de prevenção de dano por turno
+    - Corvinal: +10 energia máxima
+    - Lufa lufa: recupera 3 de vida a cada turno
+
+
+Criar Fedora
+  Gaste 10: Coloca uma Fedora, o chapéu de escolha de qualquer aventureiro, no jogador alvo
+
+  Fedora - Hat
+  Concede +3 de dano para cada ataque do jogador.
+
+  "Your Fedora does not protect you."
+
+
+Criar CAPTAIN Hat - Esse será lembrado como o dia em que você quase capturou...
+  Gaste 60: Coloque CAPTAIN Hat - Esse será lembrado como o dia em que você quase capturou... no jogador alvo.
+
+  CAPTAIN Hat - Esse será lembrado como o dia em que você quase capturou... - Hat Lendário
+  Concede 20% de chance de esquiva ao portador. (esquiva desvia de ataques, fazendo-os não causar dano nem efeitos que necessitam de contato)
+  Concede o poder: Queimar 15 - Sobrevive com 1 de vida nesse turno caso receba dano fatal.
+
+
+Criar Chapéu do Presto
+  Gaste 10: coloca um Chapéu do Presto no jogador alvo.
+
+  Chapéu do Presto - Hat - Canaliza a magia caótica do mundo.
+  Concede o poder: Gastar 10: Um jogador aleatório recebe um dos seguintes efeitos aleatoriamente:
+    - Missel Magico: 5 de dano absoluto, impossível de ser desviado.
+    - Curar ferimentos leves: cura 5 de vida.
+    - Tempestade: por 2 turnos e todos perdem 10 de energia.
+    - Bola de fogo: o alvo e todos os outros que o tiverem como alvo neste turno recebem 10 de dano.
+    - Abençoar: +5 de armadura no próximo turno.
+
+
+-----------------------------------------------
+
+Player: rilifon (MP no fórum)
+Nick: The Fez
+
+
+Fancyhattor
+  Gaste 30: Faz o chapéu alvo virar fabuloso, e se o chapéu acima ou abaixo dele for detruído, destrua ele ao invés disso.
+
+
+Kitty Kitty
+  Gaste 30: Coloca um Gato no jogador alvo.
+
+  Gato - Hat?
+  Dá 5 de energia extra para o portador para cada gato na cabeça do portador.
+  Se um Gato for destruido, ele pula no rosto do portador, dando 20 de dano absoluto.
+  Só pode ser usado uma vez por alvo em cada turno.
+
+
+Oddjob hat Throw
+  Gaste 30: Jogue um chapéu que você porta no jogador alvo. Causa 30 de dano perfurante nele.
+  Existe um terço de chance da pessoa ficar com o chapeu.
+
+
+Hatatooie (sic)
+  Você começa o jogo com um Hatatooie
+
+  Hatatooie - Hat?
+  Hatatooie é indestrutível
+  Gaste X: Um chapeu e um rato cozinheiro! Escolha um dos dois:
+    - O rato lhe prepara comida, e voce ganha x/5 de vida.
+    - Você manda o rato em um chapéu alvo de alguém. Se a pessoa nao queimar X/3 de vida, o rato come o chapéu dela, destruindo-o.
+
+
+Hatmonlee
+  Gaste 20: Chute alguem, dando 30 de dano perfurante, com 1/4 de chance do chapeu do topo da cabeça dela cair (ser destruído).
+
+-----------------------------------------------
